@@ -8,9 +8,7 @@
 ![RemembranceBanner](https://user-images.githubusercontent.com/112576275/192099739-bdbe9b3c-4893-4168-a9a1-194fe387d2e0.png)
 
 - Created By Jacob H Barrow
-
-## Prototype: Test This Monday!!!!
-
+- 
 ## Description
 Provides an interface to the following Linux files: /proc/net/tcp, /proc/net/tcp6, /proc/net/udp, /proc/net/udp6, /proc/net/packet.
 There is an option to only parse certain files, with the option to sort on all the fields (lambda sorting).
