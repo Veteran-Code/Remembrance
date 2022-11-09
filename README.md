@@ -57,7 +57,4 @@ This module allows the user to for loop all the current connections on your devi
 - `ConnTrack.retrieveIpInfo_LastN(ip)`: Retrieve the last n ip connections associated with this ip on this system. 
 - `IpStat()` - Provides an iterable to for loop over current device connections, essentially returning an iterable object over /proc/net/tcp, /proc/net/tcp6, /proc/net/udp, /proc/net/udp6, /proc/net/packet by default.
 
-## Future
-- Remembrance will be feeding SiemChirps as the out-of-band IDS sensor solution... later there will be an in-line IPS sensor solution provided with a kernel module.
-
-### Join Dumbledore's Army Today!!!
+### Dumbledore's Army
